@@ -34,5 +34,5 @@ function refresh() {
     });
 }
 
-setInterval(refresh, 1000 * 300);
+setInterval(refresh, 1000 * 3);
 refresh();
